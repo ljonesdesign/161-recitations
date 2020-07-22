@@ -1,3 +1,5 @@
 # Headline
 
-> An awesome project.
+> This is the home page of INLS-161 recitation notes.
+
+This site was created with [docsify](https://docsify.js.org/#/)
