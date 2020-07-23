@@ -29,4 +29,4 @@ NEW!<a href="../../html-help/">Here is a section where I will have html help inf
 
 <p><a href="https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/">https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/</a></p>
 
-<p>There are other Server side scripts you can implement, but the Google fonts option is used by a lot of students to meet the server side script. </p>
+<p>There are other Server side scripts you can implement, but the Google fonts option is used by a lot of students to meet the server side script.</p>

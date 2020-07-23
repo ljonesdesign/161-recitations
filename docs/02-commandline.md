@@ -24,7 +24,6 @@ When you create websites, you should verify your sites with Chrome and/or Firefo
 </ul></li>
 
 
-
 <img src="../terminal-password-prompt.png">
 
 <h2 id="toc_3">Set Permissions</h2>
