@@ -1,6 +1,6 @@
 # HTML Recitation
 
-## Using your Text Editor to Hard Code a Web Page
+## Hard Code a Web Page
 
 1. Right click on your desktop and create a folder.
 2. Name the folder task02-01.
@@ -12,7 +12,7 @@
 5. Right click in the sidebar and create a new file. Name it ```index.html```.
 6. Right click in the sidebar and create another new file. Name it. ```notes.txt```.
 
-## Use a Browser to see your page develop
+## Confirm in Browser
 
 You will need to open up a browser to view your progress as you go along.
 
@@ -35,15 +35,15 @@ Beware of “caching.” Web browsers will sometimes, but not always, save a cop
 
 **Solution:** Proof your site in incognito or private mode.
 
-## Viewing code in a browser
+## Viewing Code
 
 Right-click on web page and choose view source to see your code. Be careful not to right-click on an image. If you do, you will see the image property data, and not the code.
 Put all of your files in one "Root" folder
 
 Images, PDFs pages all must be in the root folder. Copy all of you images into the root folder. Avoid linking to images on the web not in your folder. That is called “hotlinking” and makes your page dependent on that server. If you don't have permission to "hotlink" then you are effectively [stealing bandwidth](https://www.keycdn.com/support/what-is-hotlinking). It is okay to link to an image that directs you to that page.
 
-## Uploading your files to Opal with SFTP
+## SFTP to Opal
 
-**The text editors that we are using do not allow for file uploading. You will need to use your sftp program.** Remember that you need to put your folder in the ```public_html``` folder for it to be visible via a web browser.
+!> **The text editors that we are using do not allow for file uploading. You will need to use your sftp program.** Remember that you need to put your folder in the ```public_html``` folder for it to be visible via a web browser.
 
 To log into opal with your SFTP program enter ```opal.ils.unc.edu``` for the server and your username is your ```onyen```. Your password is your onyen password. After you upload your folder to the public_html directory in opal, you will need to direct your browser to ```https://opal.ils.unc.edu/~youronyen``` to confirm it has uploaded correctly uploaded.h

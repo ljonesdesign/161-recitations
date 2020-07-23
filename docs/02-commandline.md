@@ -6,10 +6,9 @@ Make a short post on something you read about in one of your subscription newsle
 ## Learning Objectives
 
 log into OPAL ```ssh onyen@opal.ils.unc.edu```
-1. Set up permissions so that I, you, and the world can view your files
-2. from a browser
+1. Set up permissions so that I, you, and the world can view your files from a browser
 3. create a directory
-4. Practice some basic linux skills
+4. Practice some basic LINUX skills
 
 
 When you create websites, you should verify your sites with Chrome and/or Firefox. At least use one of these to check/verify your coding. If you are only using Safari, then you are only seeing your site through a Mac "lens." If you are only using Microsoft Explorer or Edge, your are only seeing it as a "PC" user. Also, you need to understand that browsers "cache" pages to save network resources. So it may be necessary to view your website changes in private (Firefox) or incognito (Chrome) mode to see website updates.
