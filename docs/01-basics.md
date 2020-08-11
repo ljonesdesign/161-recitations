@@ -74,4 +74,4 @@ Or maybe you notice something that inspires you to build a project, or pursue a 
 ## Professionalism
 VALUE ADDED ITEM | 5.5 points
 
-This is rarely a problem for most students in INLS 161. There is no submission required for this assignment item. I will look at all aspects of your performance during the semester to come up with your final professionalism grade. Bring your **A** game to this class and you will earn an **A** (95 or above). Resubmits are allowed and you can improve your grade if you *sincerely* care about your success and you have *sincerely* done your best on your first submission. It is very, very difficult for me to grade resubmits for late, big projects. If you turn in big projects late, you go to the back of the line in grading. I will grade new projects that are being turned in on time before I grade your late project.
+<https://sakai.unc.edu/x/wqwAuX>
