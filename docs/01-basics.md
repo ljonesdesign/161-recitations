@@ -31,8 +31,10 @@ Take a look at the navigation items in the left side bar:
 
 **Assignments:** This is where you submit your work. Pay attention to the due dates. It is important for you not to fall behind or you will get overwhelmed with a backlog of work. **If you attend the recitations, you will most likely be able to keep up with your work.**
 
+
+
 ## Forum Posts
-You will see value added items in the Assignment List.
+VALUE ADDED ITEM | .5 each
 
 **Forum posts 1-7:** You do not have to submit forum postings in the Assignment Section. Just put your forum post in the appropriate folder for your section. I will find and grade your posts from the forum. Also, you do not need to add a label or tag to your post in Sakai. The label and tag requirement was due to using a system outside of Sakai. Dr. Bergquist and I (and you) can now sort your posts by author name and find all of your posts in a sorted list. *See figure 1 below:*
 
@@ -40,10 +42,13 @@ You will see value added items in the Assignment List.
 ![forum post image](images/forum-posts.jpg)
 
 ## Comment on Peer's post
+VALUE ADDED ITEM | 3 points
 
 In Figure 1 above notice the black triangle to the left of the Post Title. This indicates that there is at least one comment on that post. **You should make at least one comment on a peer's post sometime this semester.**  There is no need to submit this in the assignment section. I will find your comments and grade them in the process of reading the forums.
 
 ## Starter
+VALUE ADDED ITEM | 3 points
+
 During the semester I will ask each of you to present one of your forum posts at the start of each class. Some of you will need to step up and get this done early and others will need to present at later dates. A starter has a chain of prerequisites that are not very time consuming, but they have to be done in this order:
 
 1. You need to subscribe to a tech newsletter
@@ -67,5 +72,6 @@ You at a job interview:
 Or maybe you notice something that inspires you to build a project, or pursue a particular job, or a Masters' Degree, or Doctorate Degree.
 
 ## Professionalism
+VALUE ADDED ITEM | 5.5 points
 
-This is rarely a problem for most students in INLS 161. There is no submission required for this assignment item. Don't overthink this. Bring your A game to this class and you will earn an A! Resubmits are allows and you can improve your grade if you care about your success.
+This is rarely a problem for most students in INLS 161. There is no submission required for this assignment item. I will look at all aspects of your performance during the semester to come up with your final professionalism grade. Bring your **A** game to this class and you will earn an **A** (95 or above). Resubmits are allowed and you can improve your grade if you *sincerely* care about your success and you have *sincerely* done your best on your first submission. It is very, very difficult for me to grade resubmits for late, big projects. If you turn in big projects late, you go to the back of the line in grading. I will grade new projects that are being turned in on time before I grade your late project.
