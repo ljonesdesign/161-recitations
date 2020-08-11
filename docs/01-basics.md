@@ -2,7 +2,7 @@
 
 ## Introductions
 
-
+We will spend some time today to get to know each other.
 
 ## First tool: Browser
 
@@ -31,7 +31,7 @@ Take a look at the navigation items in the left side bar:
 
 **Assignments:** This is where you submit your work. Pay attention to the due dates. It is important for you not to fall behind or you will get overwhelmed with a backlog of work. **If you attend the recitations, you will most likely be able to keep up with your work.**
 
-## Value Added Items
+## Forum Posts
 You will see value added items in the Assignment List.
 
 **Forum posts 1-7:** You do not have to submit forum postings in the Assignment Section. Just put your forum post in the appropriate folder for your section. I will find and grade your posts from the forum. Also, you do not need to add a label or tag to your post in Sakai. The label and tag requirement was due to using a system outside of Sakai. Dr. Bergquist and I (and you) can now sort your posts by author name and find all of your posts in a sorted list. *See figure 1 below:*
@@ -65,3 +65,7 @@ You at a job interview:
 > **You:** (thinking over your posts...) Google Achieving Quantum Supremacy.....
 
 Or maybe you notice something that inspires you to build a project, or pursue a particular job, or a Masters' Degree, or Doctorate Degree.
+
+## Professionalism
+
+This is rarely a problem for most students in INLS 161. There is no submission required for this assignment item. Don't overthink this. Bring your A game to this class and you will earn an A! Resubmits are allows and you can improve your grade if you care about your success.
