@@ -7,10 +7,4 @@
 This site was created with [docsify](https://docsify.js.org/#/)
 Theme by [Docisfy Themeable](https://jhildenbiddle.github.io/docsify-themeable/#/introduction)
 
-A magical documentation site generator.
-
-    * Simple and lightweight
-    * No statically built html files
-    * Multiple themes
-
 [github files](https://github.com/ljonesdesign/161-recitations) | [docsify view](https://ljonesdesign.github.io/161-recitations/#/)
