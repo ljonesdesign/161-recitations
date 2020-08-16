@@ -1,7 +1,6 @@
 # Commmand Line
 
-Make a Forum Post
-Make a short post on something you read about in one of your subscription newsletters. This is something you can do before class if you have time. If you do't have time to finish, save a draft and finish later.
+If you have time before class, make a short post on something you read about in one of your subscription newsletters. If you have made a forum post, then you may do a starter, if you wish. (You need to first make a forum post before doing a starter.)
 
 ## Learning Objectives
 
@@ -15,54 +14,77 @@ When you create websites, you should verify your sites with Chrome and/or Firefo
 
 ## Log in
 
+How to log in to OPAL
+[Link to lecture Command Line web page](https://ils.unc.edu/courses/2020_spring/inls161_001/02a.03.command-line.html)
 
-<li><a href="https://ils.unc.edu/courses/2020_fall/inls161_001/02a.03.command-line.html">Link to lecture Command Line web page</a>: How to log in to OPAL
+* Mac Users: Use Terminal
+* PC Users: Use Command Prompt or Secure Shell
 
-<ul>
-<li>Mac Users: Use Terminal</li>
-<li>PC Users: Use Command Prompt or Secure Shell </li>
-</ul></li>
+![password prompt image](images/terminal-password-prompt.png)
 
+## Set Permissions
 
-<img src="../terminal-password-prompt.png">
+### Short version:
 
-<h2 id="toc_3">Set Permissions</h2>
+```
+[your_onyen@opal ~] $
+```
+Type in: ```chmod 711 .``` **DON'T FORGET THE PERIOD!**
 
-<ol>
-<li>All the details are <a href="https://ils.unc.edu/courses/2020_fall/inls161_001/02b.01.command-line.html">here</a>.</li>
-</ol>
+Like this:
 
-<h3 id="toc_4">Short version:</h3>
+```
+[your_onyen@opal ~] $ chmod 711 .
+```
 
-<div><pre><code class="language-none">[your_onyen@opal ~] $
-</code></pre></div>
+Press enter. Now you will be able to see your files on the web.
 
-<p>Type in: <code>chmod 711 .</code> <em>DON&#39;T FORGET THE PERIOD!</em></p>
+## Setting up File Access Permissions
 
-<p>Like this:</p>
+Before you (or anyone else) can view your files in a web browser, you must change the access permissions for your home directory on opal. If these permissions are set incorrectly, anyone trying to view your webpage will see a Forbidden error rather than your content. Follow these instructions to set the correct permissions:
 
-<div><pre><code class="language-none">[your_onyen@opal ~] $ chmod 711 .
-</code></pre></div>
+Open an SSH connection to Opal.
 
-<p>Press enter. Now you will be able to see your files on the web.</p>
+On Windows, you'll need to use The Command Prompt or Git BASH; on MacOS and Linux, you can open a Terminal window, enter
+
+```
+ssh your_onyen@opal.ils.unc.edu
+```
+
+and then enter your password when prompted.
+
+Once you've connected, you should see a command prompt like this:
+
+```
+[your_onyen@opal ~] $
+```
+
+Type
+
+```
+chmod 711 .
+```
+
+with both the space and the period. If you get a "missing operand" error, make sure you included the space and the period at the end.
+
+## Viewing Your Webpage
+
+After you have uploaded your files and set the correct permissions, your webpage will be viewable at https://opal.ils.unc.edu/~onyen/ . This will take you to the index page in your public_html folder; you can also navigate directly to other pages or subfolders you've added, such as https://opal.ils.unc.edu/~onyen/my_folder/my_page.html
 
 <h2 id="toc_5">Create a Directory</h2>
 
 <a href="https://ils.unc.edu/courses/2020_spring/inls161_001/02b.02.new-directory.html">Create a Directory</a>
 
-<p><strong>Grading rubric:</strong> you must follow file naming conventions: no spaces; no strange characters. Use hyphens or periods where you would have spaces. Try to stick with lowercase letters. After you have created your directory, open the related assignment and paste your link in the submission box:</p>
+**Grading rubric:** You must follow file naming conventions: **NO SPACES**; no strange characters. Use hyphens or periods where you would have spaces. Try to stick with lowercase letters. After you have created your directory, open the related assignment and paste your link in the submission box.</p>
 
-<img src="../example-submission.png">
+Please do not password protect the directory that you create for this assigment. It is okay to password protect a separate directory.
+
+## Helpful Links
+
+* [Fosswire Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* [UNC ITS help sheet](files/unc-unix-help.pdf)
+* [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
 
 
-<h2 id="toc_6">Helpful Links</h2>
-
-<ul>
-<li><a href="https://sakai.unc.edu/access/content/group/e9c746ef-ac76-46de-a710-efc21a0547af/materials/01/fwunixref.pdf">Fosswire Unix/Linux Command Reference</a></li>
-<li><a href="https://sakai.unc.edu/access/content/group/e9c746ef-ac76-46de-a710-efc21a0547af/materials/01/unix-unc-help-unc.pdf">UNC ITS help sheet</a></li>
-<li><a href="https://lifehacker.com/a-command-line-primer-for-beginners-5633909">A Command Line Primer for Beginners</a></li>
-</ul>
-
-<h2 id="toc_7">Basics: Command Line Cheat Sheet</h2>
-
-<p><a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">What is the Bash Shell?</a></p>
+## Basics: Command Line Cheat Sheet
+[What is the Bash Shell?](https://en.wikipedia.org/wiki/Bash_(Unix_shell))

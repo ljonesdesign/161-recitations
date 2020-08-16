@@ -74,4 +74,4 @@ Or maybe you notice something that inspires you to build a project, or pursue a 
 ## Professionalism
 VALUE ADDED ITEM | 5.5 points
 
-<https://sakai.unc.edu/x/wqwAuX>
+[Characteristics of Professionalism](https://smallbusiness.chron.com/characteristics-professionalism-1209.html)
