@@ -13,7 +13,7 @@ opal.ils.unc.edu/~onyen
 ```  
 Replace your onyen with your onyen
 
-You should see **Forbidden** message. That is good that means you have an account and need to reset permissions.
+You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
 
 Darthvader does not have an account on opal, so he can't be found: <https://opal.ils.unc.edu/~darthv>
 
