@@ -19,12 +19,14 @@ It's the <kbd>shift + backtick</kbd> under, or near, the <kbd>esc</kbd> key:
 
 ## OPAL Accounts Have been Created
 
+!>Important: Replace **<onyen>** with your personal onyen. example: **opal.ils.unc.edu/~kellyd**
+
 If you open a browser and go to:
 
 ```
-opal.ils.unc.edu/~onyen
+opal.ils.unc.edu/~<onyen>
 ```  
-!>Replace **onyen** with your personal onyen. example: **opal.ils.unc.edu/~kellyd**
+
 
 You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
 
