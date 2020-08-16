@@ -24,7 +24,7 @@ How to log in to OPAL
 
 ## Set Permissions
 
-### Short version:
+### Short Version:
 
 ```
 [your_onyen@opal ~] $
@@ -39,7 +39,7 @@ Like this:
 
 Press enter. Now you will be able to see your files on the web.
 
-## Setting up File Access Permissions
+### Longer Version
 
 Before you (or anyone else) can view your files in a web browser, you must change the access permissions for your home directory on opal. If these permissions are set incorrectly, anyone trying to view your webpage will see a Forbidden error rather than your content. Follow these instructions to set the correct permissions:
 
