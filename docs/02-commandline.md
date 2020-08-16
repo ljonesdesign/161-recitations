@@ -2,6 +2,31 @@
 
 If you have time before class, make a short post on something you read about in one of your subscription newsletters. If you have made a forum post, then you may do a starter, if you wish. (You need to first make a forum post before doing a starter.)
 
+If you are having trouble finding the [Technology Review Newletter](https://forms.technologyreview.com/the-download/) Subscription, <<< this link works.
+
+## OPAL Accounts Have been Created
+
+If you open a browser and go to:
+
+```
+opal.ils.unc.edu/~onyen
+```  
+Replace your onyen with your onyen
+
+You should see **Forbidden** message. That is good that means you have an account and need to reset permissions.
+
+Darthvader does not have an account on opal, so he can't be found: <https://opal.ils.unc.edu/~darthv>
+
+```
+The requested URL /~darthv was not found on this server.
+```
+
+My onyen is lblakej. I have an account and I have set my permissions, so you can see my site directory: <https://opal.ils.unc.edu/~lblakej>
+
+```
+Index of /~lblakej
+```
+
 ## Learning Objectives
 
 log into OPAL ```ssh onyen@opal.ils.unc.edu```
@@ -71,7 +96,7 @@ with both the space and the period. If you get a "missing operand" error, make s
 
 After you have uploaded your files and set the correct permissions, your webpage will be viewable at https://opal.ils.unc.edu/~onyen/ . This will take you to the index page in your public_html folder; you can also navigate directly to other pages or subfolders you've added, such as https://opal.ils.unc.edu/~onyen/my_folder/my_page.html
 
-<h2 id="toc_5">Create a Directory</h2>
+## Create a Directory
 
 <a href="https://ils.unc.edu/courses/2020_spring/inls161_001/02b.02.new-directory.html">Create a Directory</a>
 
