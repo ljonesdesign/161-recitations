@@ -2,7 +2,20 @@
 
 If you have time before class, make a short post on something you read about in one of your subscription newsletters. If you have made a forum post, then you may do a starter, if you wish. (You need to first make a forum post before doing a starter.)
 
-If you are having trouble finding the [Technology Review Newletter](https://forms.technologyreview.com/the-download/) Subscription, <<< this link works.
+If you are having trouble finding the [Technology Review Newsletter signup](https://forms.technologyreview.com/the-download/) Subscription **<<< this link works**.
+
+## Eduroam or VPN
+
+If you do not have access to UNC Eduroam, you must have your VPN client installed and connected before you can log into OPAL.
+
+![vpn image](images/active-vpn-example.png)
+
+## Get to Know the Tilde
+
+It's the <kbd>shift + backtick</kbd> under, or near, the <kbd>esc</kbd> key:
+
+![tilde](images/tilde.png).
+
 
 ## OPAL Accounts Have been Created
 
@@ -11,11 +24,11 @@ If you open a browser and go to:
 ```
 opal.ils.unc.edu/~onyen
 ```  
-Replace your onyen with your onyen
+!>Replace onyen with your personal onyen. example: **opal.ils.unc.edu/~kellyd**
 
 You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
 
-Darthvader does not have an account on opal, so he can't be found: <https://opal.ils.unc.edu/~darthv>
+Darth Vader **does not** have an account on opal, so he **can't be found**: <https://opal.ils.unc.edu/~darthv>
 
 ```
 The requested URL /~darthv was not found on this server.
@@ -27,9 +40,7 @@ My onyen is lblakej. I have an account and I have set my permissions, so you can
 Index of /~lblakej
 ```
 
-There is nothing at opal main page: <https://opal.ils.unc.edu/>
-
-You will just see a blank browser window.
+There is nothing at the opal main page: <https://opal.ils.unc.edu/>; you will just see a blank browser window.
 
 ## Learning Objectives
 
@@ -42,6 +53,10 @@ log into OPAL ```ssh onyen@opal.ils.unc.edu```
 When you create websites, you should verify your sites with Chrome and/or Firefox. At least use one of these to check/verify your coding. If you are only using Safari, then you are only seeing your site through a Mac "lens." If you are only using Microsoft Explorer or Edge, your are only seeing it as a "PC" user. Also, you need to understand that browsers "cache" pages to save network resources. So it may be necessary to view your website changes in private (Firefox) or incognito (Chrome) mode to see website updates.
 
 ## Log in
+
+You can log into your OPAL account with current permission settings. You are going to change permissions to make your public_html directory veiwable to the world wide web.
+
+Here is a permissions calculator to help you grasp the number system [Permissions Calculator](http://permissions-calculator.org/)
 
 How to log in to OPAL
 [Link to lecture Command Line web page](https://ils.unc.edu/courses/2020_spring/inls161_001/02a.03.command-line.html)
