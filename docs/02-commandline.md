@@ -24,7 +24,7 @@ If you open a browser and go to:
 ```
 opal.ils.unc.edu/~onyen
 ```  
-!>Replace onyen with your personal onyen. example: **opal.ils.unc.edu/~kellyd**
+!>Replace **onyen** with your personal onyen. example: **opal.ils.unc.edu/~kellyd**
 
 You should see **Forbidden** message. That is good; that means you have an account, and you need to reset permissions.
 
