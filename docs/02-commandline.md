@@ -77,12 +77,11 @@ After you have uploaded your files and set the correct permissions, your webpage
 
 **Grading rubric:** You must follow file naming conventions: **NO SPACES**; no strange characters. Use hyphens or periods where you would have spaces. Try to stick with lowercase letters. After you have created your directory, open the related assignment and paste your link in the submission box.</p>
 
-Please do not password protect the directory that you create for this assigment. It is okay to password protect a separate directory.
 
 ## Helpful Links
 
 * [Fosswire Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
-* [UNC ITS help sheet](files/unc-unix-help.pdf)
+* [UNC ITS help sheet](https://github.com/ljonesdesign/161-recitations/blob/master/docs/files/unc-unix-help.pdf)
 * [A Command Line Primer for Beginners](https://lifehacker.com/a-command-line-primer-for-beginners-5633909)
 
 
