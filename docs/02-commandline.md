@@ -27,6 +27,10 @@ My onyen is lblakej. I have an account and I have set my permissions, so you can
 Index of /~lblakej
 ```
 
+There is nothing at opal main page: <https://opal.ils.unc.edu/>
+
+You will just see a blank browser window.
+
 ## Learning Objectives
 
 log into OPAL ```ssh onyen@opal.ils.unc.edu```
