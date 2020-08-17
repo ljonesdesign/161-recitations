@@ -1,4 +1,4 @@
-# Basics
+# Basics Intro August 10 
 
 ## Introductions
 

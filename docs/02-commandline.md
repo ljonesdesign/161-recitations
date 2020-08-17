@@ -1,4 +1,4 @@
-# Commmand Line
+# Commmand Line August 17
 
 If you have time before class, make a short post on something you read about in one of your subscription newsletters. If you have made a forum post, then you may do a starter, if you wish. (You need to first make a forum post before doing a starter.)
 
