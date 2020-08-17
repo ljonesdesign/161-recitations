@@ -134,3 +134,8 @@ After you have uploaded your files and set the correct permissions, your webpage
 
 ## Basics: Command Line Cheat Sheet
 [What is the Bash Shell?](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+
+## Excellent Tutorials for Command Line on Mac and PC
+
+[Absolute Beginner Guide to the Mac OS Terminal](https://www.youtube.com/watch?v=aKRYQsKR46I)
+[Command Line Interface Tutorial (with GitBash)](https://www.youtube.com/watch?v=sw9kdFka8rA)
