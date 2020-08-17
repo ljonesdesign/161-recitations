@@ -133,7 +133,7 @@ After you have uploaded your files and set the correct permissions, your webpage
 ## Basics: Command Line Cheat Sheet
 [What is the Bash Shell?](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
-## Excellent Tutorials for Command Line on Mac and PC
+## Excellent YouTube Command line demos for Mac & PC
 
 *These are optional, but highly recommended if you are interested in pursuing any type of web development.*
 
