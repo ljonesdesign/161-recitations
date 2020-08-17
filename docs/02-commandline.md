@@ -138,4 +138,6 @@ After you have uploaded your files and set the correct permissions, your webpage
 ## Excellent Tutorials for Command Line on Mac and PC
 
 * [Absolute Beginner Guide to the Mac OS Terminal](https://www.youtube.com/watch?v=aKRYQsKR46I)
-* [Command Line Interface Tutorial (with GitBash)](https://www.youtube.com/watch?v=sw9kdFka8rA)
+* [Command Line Interface Tutorial (with GitBash)](https://www.youtube.com/watch?v=sw9kdFka8rA) 
+
+If you decide to download [git for Windows]((https://gitforwindows.org)) to tryout git bash, just install with all of the default items.  The Git GUI will be installed, but you won't need that for this tutorial, and you probably will not ever use it. (I don't ever use it.) So that could be the one item that you uncheck and don't install. This is optional. This is the easiest way to get to play with command line tools like you would on a Mac. Git is another thing altogether, and this video does not get into git or github. 
