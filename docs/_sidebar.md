@@ -14,17 +14,17 @@
 * [Sep 21 | 07 Scripting](07-scripting.md)
 
 **Document Markup**
-* [Sep 27 | 08 Markup Control](08-markup-control.md)
-* [Oct 04 | 09 Reading Markup](09-reading-markup.md)
+* [Sep 28 | 08 Markup Control](08-markup-control.md)
+* [Oct 05 | 09 Reading Markup](09-reading-markup.md)
 
 **Data**
 * [Oct 12 | 10 Spreadsheets](10-spreadsheets.md)
-* [Oct 18 | 11 Data Display](11-data-display.md)
-* [Nov 02 | 12 Data Manipulation](12-data-manipulation.md)
-* [Nov 09 | 13 Rel. Databases](13-databases.md)
+* [Oct 19 | 11 Data Display](11-data-display.md)
+* [Oct 26 | 12 Data Manipulation](12-data-manipulation.md)
+* [Nov 02 | 13 Rel. Databases](13-databases.md)
 
 **Presentations**
-* [Nov 16 | 14 Design & Delivery](14-design-delivery.md)
+* [Nov 09 | 14 Design & Delivery](14-design-delivery.md)
 
 **Final Exam**
 * [Nov ?? | 15 Student Presentations](15-final-presentations.md)
