@@ -7,11 +7,98 @@ If you are still having issues with this task, please try to get up a bit early 
 If you need a review, look over the the Sep 07 CSS class notes (link in left sidebar). We all missed this class due to the Labor Day Holiday. If you need to look at the videos again, go to the class entry [in the calendar](https://sakai.unc.edu/x/LOzYFh) to access the videos. *You will default to the current week, so go to the previous week.*
 
 
+!> your home page, or initial page should always be named **index.html**. the "i" should be lower case and html should be lowercase. Don't name it **index1.html** or **2index.html**. Don't ever have a page named **home.html**. Your **home** page **is** the **index.html** page. If you name it with a capital "I" the browser OPAL will not hide it in the directory. It will be listed like any other non index.html file.
+
+## Navigation
+
+Navigation design basics are the most crucial next step to learn after getting HTML and CSS basics down. Navigation design is complicated. Especially when building responsive sites. We don't have time to go into the fine details. But I do want to go over some absolute basics. You do not have to follow along with me, but I will create a project and demonstrate this in class. It's your choice follow along or just watch. If you complete this task and post it on opal it will give you credit for both task 02.01 and 02.02, so if you are behind, you can get caught up today.
+
+```
+<!DOCTYPE html>
+<html>
+ <head>
+
+  <title>Navigation Example</title>
+   <!-- <link rel="stylesheet" href="style.css"> -->
+   <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+   <!-- <meta charset="utf-8"> -->
+   <!-- <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap" rel="stylesheet">  -->
+ </head>
+ <body>
+<!-- Start of Navigation code -->
+
+  <ul class="topnav">
+   <li><a class="active" href="index.html">Home</a></li>
+   <li><a href="about.html">About</a></li>
+   <li><a href="classes.html">Classes</a></li>
+   <li><a href="interests.html">Interests</a></li>
+  </ul>
+
+<!-- End of Navigation code -->  
+  <article>
+   <h1>{Home} Page</h1>
+    <p>This is the {Home} page.</p>
+    <p>If you duplicate the page to make a new page, you need to edit the active link class,
+       the title, the h1 and the p content for all pages.</p>
+  </article>
+
+ </body>
+</html>
+```
+
+This is the associated CSS code:
+
+```
+body {
+  margin: 0;
+  font-family:'Spectral', serif;
+  font-size: large;
+  background-color: tan;
+}
+
+article {
+  margin:3% 5% 5% 10%;
+  background-color: white;
+  padding: 3%;
+  border-radius: 5px;
+}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color:tan;}
+
+ul.topnav li a.active {
+  color: black;
+  background-color:tan;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right,
+  ul.topnav li {float: none;}
+}
+```
 ## Choosing a Template
 
-By now you should understand the basic HTML structure and how CSS is used to make the basic HTML more visually pleasing. I have a bias towards using themes that will work on phones. I would encourage you to look for keywords that mention "mobile", "responsive" or "mobile friendly" associated with your choice of a theme.
+By now you should understand the basic HTML structure and how CSS is used to make the basic HTML more visually pleasing. In 2020 web designers should be using themes that will work on phones. This is called responsive design. Your template will contain CSS code that can take advantage of different screen sizes. I would encourage you to look for keywords that mention "mobile", "responsive" or "mobile friendly" in the template description. I will not downgrade you for using a non-mobile theme, but users will not like your site if they view it on a phone.
 
-Take a look at the following code and note the commments:
+Take a look at the following code and note the comments:
 
 ```
 <!DOCTYPE html>
@@ -38,8 +125,6 @@ Take a look at the following code and note the commments:
 </html>
 
 ```
-
-!> your home page, or initial page should always be named **index.html**. the "i" should be lower case and html should be lowercase. Don't name it **index1.html** or **2index.html**. Don't ever have a page named **home.html**. Your **home** page **is** the **index.html** page.
 
 ## Working with Templates
 
