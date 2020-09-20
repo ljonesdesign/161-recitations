@@ -130,11 +130,12 @@ Take a look at the following code and note the comments:
 
 Here are a few examples of my own templates that some students have used from past classes (these have the mobile friendly settings in the ```<head>```).
 
-* [One page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/02-one-page-final-sample/)
-* [Multiple page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/05-multi-page-final-sample/)
-* [Background Photo Sample](https://opal.ils.unc.edu/~lblakej/website-helps/08-example/about.php)
-* [UNC Theme Sample](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/index.html)
+* [One page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/02-one-page-final-sample/) | [Download one page template](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/one-page-green-starter-theme.zip)
+* [Multiple page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/05-multi-page-final-sample/) | [Download multiple page template](https://opal.ils.unc.edu/~lblakej/website-helps/06-multi-page-source-files/multi-page-template.zip)
+* [UNC Theme Sample](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/index.html) | [Download Bootstrap-based UNC theme template](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/)
+* [Background Photo Sample](https://opal.ils.unc.edu/~lblakej/website-helps/08-example/about.php) | [Download Bootstrap-based Photo Theme template](https://opal.ils.unc.edu/~lblakej/website-helps/08-template.zip)
 
-Some students have also used templates from the [sources on the class web site](https://ils.unc.edu/courses/2020_fall/inls161_001/06a.01.preps.html).
+
+A lot of students also used templates from the [sources on the class web site](https://ils.unc.edu/courses/2020_fall/inls161_001/06a.01.preps.html).
 
 In class we will download some different themes and discuss all of elements that you will need to include in your website to earn full points. The class will be recorded.

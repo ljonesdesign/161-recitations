@@ -12,6 +12,7 @@
 * [Sep 07 | 05 CSS](05-css.md)
 * [Sep 14 | 06 Templates](06-templates.md)
 * [Sep 21 | 07 Scripting](07-scripting.md)
+* [Website Checklist](07-checklist.md)
 
 **Document Markup**
 * [Sep 28 | 08 Markup Control](08-markup-control.md)
