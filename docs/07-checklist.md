@@ -143,7 +143,7 @@ Check <a href="https://jigsaw.w3.org/css-validator/"><b>CSS validation</b>:</a> 
 
 <li>
 Do your best to <b>fix validation errors</b> that are obviously your code edits. If the issue is with your template, that will not count against you.
-For example, if you are using a bootstrap template, there will be <a href="bootstrap-errors.png">some CSS validation issues</a> with the <code>bootstrap.min.css</code> file; but, you should not be touching that file, so it is not your fault. (Unless you did indeed edit it by accident.) There may be some issues with cut and page Google Font and Google Form code, as well. That will not affect your validation grade.
+For example, if you are using a bootstrap template, there will be some CSS validation issues with the <code>bootstrap.min.css</code> file; but, you should not be touching that file, so it is not your fault. (Unless you did indeed edit it by accident.) There may be some issues with cut and page Google Font and Google Form code, as well. That will not affect your validation grade.
 </li>
 
 <li>
