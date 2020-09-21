@@ -4,7 +4,7 @@ Here is a checklist that you can use to make sure you have all the parts of your
 
 !><kbd>Control+F</kbd> (PC) and <kbd>Command+F</kbd> (Mac) will help you find what you are looking for on this page if you get stuck building your site. <br>[Six Keyboard Shortcuts Every Computer User Should Know](https://lifehacker.com/six-keyboard-shortcuts-every-computer-user-should-know-5836288)
 
->This was posted Sunday, September 20, at 1:00 p.m. so students can benefit from it if they are working on their sites before class on September, 21. It could use some final proofing, but I don't have any more time to work on it this afternoon. This page will be a dynamic source of help over the next few weeks. If you have any suggestions or ways to make this list better, then let me know.
+>This page will be a dynamic source of help over the next few weeks. If you have any suggestions or ways to make this list better, then let me know.
 
 <ol>
 <li>
