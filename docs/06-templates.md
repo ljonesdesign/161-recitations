@@ -133,7 +133,7 @@ Here are a few examples of my own templates that some students have used from pa
 * [One page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/02-one-page-final-sample/) | [Download one page template](https://opal.ils.unc.edu/~lblakej/website-helps/03-one-page-source-files/one-page-green-starter-theme.zip)
 * [Multiple page template sample](https://opal.ils.unc.edu/~lblakej/website-helps/05-multi-page-final-sample/) | [Download multiple page template](https://opal.ils.unc.edu/~lblakej/website-helps/06-multi-page-source-files/multi-page-template.zip)
 * [UNC Theme Sample](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/index.html) | [Download Bootstrap-based UNC theme template](https://opal.ils.unc.edu/~lblakej/website-helps/07-NEW-bootstrap-template/)
-* [Background Photo Sample](https://opal.ils.unc.edu/~lblakej/website-helps/08-example/about.php) | [Download Bootstrap-based Photo Theme template](https://opal.ils.unc.edu/~lblakej/website-helps/08-template.zip)
+* [Background Photo Sample](https://opal.ils.unc.edu/~lblakej/website-helps/08-photo-background-example/index.php) | [Download Bootstrap-based Photo Theme template](https://opal.ils.unc.edu/~lblakej/website-helps/08-photo-background-template.zip)
 
 
 A lot of students also used templates from the [sources on the class web site](https://ils.unc.edu/courses/2020_fall/inls161_001/06a.01.preps.html).
