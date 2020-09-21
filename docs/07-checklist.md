@@ -86,7 +86,7 @@ Interests Page Content: At least an <b>HTML ordered list</b>.
 </li>
 
 <li>
-Third level pages or section: <a href="../../08-example/inls-161.php">(Broken Link. will fix soon.)Three placeholder objects for links to tasks 3-5</a>.
+Third level pages or section: Three placeholder objects for links to tasks 3-5. <a href="images/project-links-one-page.png">Single page Example</a> and <a href="images/project-links-multi-page.png">Multipage example</a>.
 </li>
 
 <li>
