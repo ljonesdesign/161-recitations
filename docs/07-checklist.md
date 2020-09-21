@@ -10,7 +10,7 @@ Use Word to export a real or example <strong>resume</strong> in pdf format; save
 </li>
 
 <li>
-Find a <strong>template</strong>, verify it works for you and start building your site. See <a href="/#/06-templates">last week's, class notes</a> for more information.
+Find a <strong>template</strong>, verify it works for you and start building your site. See <a href="../06-templates">last week's, class notes</a> for more information.
 </li>
 
 <li>
