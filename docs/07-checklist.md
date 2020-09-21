@@ -2,6 +2,8 @@
 
 Here is a checklist that you can use to make sure you have all the parts of your website done before posting to OPAL and submitting.
 
+!><kbd>Control+F</kbd> (PC) and <kbd>Command+F</kbd> (Mac) will help you find what you are looking for on this page if you get stuck building your site. <br>[Six Keyboard Shortcuts Every Computer User Should Know](https://lifehacker.com/six-keyboard-shortcuts-every-computer-user-should-know-5836288)
+
 >This was posted Sunday, September 20, at 1:00 p.m. so students can benefit from it if they are working on their sites before class on September, 21. It could use some final proofing, but I don't have any more time to work on it this afternoon. This page will be a dynamic source of help over the next few weeks. If you have any suggestions or ways to make this list better, then let me know.
 
 <ol>
@@ -28,7 +30,7 @@ Create a <strong>Classes Section or Page</strong>.
 </li>
 
 <li>
-Home Page Content: email with an <a href="https://www.albionresearch.com/misc/obfuscator.php"><b>obfuscated email address</b>.</a>
+Home Page Content: email with an <a href="https://www.albionresearch.com/misc/obfuscator.php"><b>obfuscated email address generator</b>.</a> | <a href="images/obfuscated-email.png"><b>How to do it.</b>.</a>
 (This is not needed if you have a working Google Form.)
 </li>
 

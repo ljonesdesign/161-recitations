@@ -12,10 +12,14 @@ If you are interested in actually understanding some javascript, then you may wa
 
 Certainly one of the javascript examples from w3schools demos will to the job for your project. You should not just copy and paste it as is; you should make it work to suit your situation.
 
-Below is an example screen shot of how I did this for my  [one page site](https://opal.ils.unc.edu/~lblakej/website-helps/02-one-page-final-sample/):
+Below is the sample code of how I did this for my  [one page site](https://opal.ils.unc.edu/~lblakej/website-helps/02-one-page-final-sample/):
 
-![javascript image](files/javascript.png)
+```
+<p id="demo">Click below to find out my concentration in Journalism School.</p>
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Advertising"'>Photography, Newswriting, or Advertising Degree?</button>
+```
 
+Notice that the above code does not need to be enclosed in a script element. This is because the javascript is coded into the ```onclick``` attribute. The onclick attribute is the only place where javascript is to be found. All other parts of the code example are all basic HTML.
 
 **That is the real learning objective: figure out how to do a little JavaScript hacking to make it work for you.**
 
