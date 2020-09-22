@@ -47,7 +47,7 @@ About Page Content: Have some custom about info related to you. Add a <b>relativ
 
 <!-- ############ RESUME   ############# -->
 <li>
-If you did not save or already put a pdf formatted resume in your website project folder on your laptop, drag a copy named
+If you did not save, or already put, a pdf formatted resume in your website project folder on your laptop, drag a copy named
 <code>yourlastname-yourfirstname-resume.pdf</code> into your project folder. You will need to link to this using a <b>RELATIVE</b> link. <a href="images/resume.png">See this static screen shot for help.</a> or <a href="images/resume.gif">check out this animated gif. </a>
 
 !> You cannot preview a pdf file in a text editor. So if you see a lot of raw code, or if you get an error message when you click on it while in the text editor, ignore it. What matters is that you can download it or view it in a browser based pdf plugin. Not every has
