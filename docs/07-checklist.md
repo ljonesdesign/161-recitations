@@ -11,17 +11,21 @@ Here is a checklist that you can use to make sure you have all the parts of your
 Use Word to export a real or example <strong>resume</strong> in pdf format; save it to your web project folder. <a href="https://www.youtube.com/watch?v=3Y-GeTi472A">Not sure about this? See this video.</a>
 </li>
 
+<!-- ############ TEMPLATE   ############# -->
 <li>
 Find a <strong>template</strong>, verify it works for you and start building your site. See <a href="/#/06-templates">last week's, class notes</a> for more information.
 </li>
 
+<!-- ############ INDEX.HTML   ############# -->
 <li>
 Confirm you have a <strong>home page file named</strong> <code>index.html</code>. You <em>should not</em> have a file named <code>home.html</code>. If you are using a one page type of theme, you will create sections. If you are using a multi-page theme, you will create pages.
 </li>
 
+<!-- ############ ABOUT.HTML   ############# -->
 <li>
 Confirm you have an <strong>About Section or Page</strong>. If not, create one.
 </li>
+
 
 <li>Create an <strong>Interests Section or Page</strong>.</li>
 
@@ -29,6 +33,7 @@ Confirm you have an <strong>About Section or Page</strong>. If not, create one.
 Create a <strong>Classes Section or Page</strong>.
 </li>
 
+<!-- ############ EMAIL AND OBFUSCATION.HTML   ############# -->
 <li>
 Home Page Content: email with an <a href="https://www.albionresearch.com/misc/obfuscator.php"><b>obfuscated email address generator</b>.</a> | <a href="images/obfuscated-email.png"><b>How to do it.</b>.</a>
 (This is not needed if you have a working Google Form.)
@@ -40,9 +45,15 @@ Home Page Content: <b>Image or graphic that loads fast and gets attention</b>.</
 <li>
 About Page Content: Have some custom about info related to you. Add a <b>relative link to your resume file</b> in the code of your <code>about.html</code> page. If you saved it or put it in the right folder, you will be able to easily link to it. </li>
 
+<!-- ############ RESUME   ############# -->
 <li>
 If you did not save or already put a pdf formatted resume in your website project folder on your laptop, drag a copy named
-<code>yourlastname-yourfirstname-resume.pdf</code> into your project folder. You will need to link to this using a <b>RELATIVE</b> link. <a href="images/resume.png">See this static screen shot for help.</a> or <a href="images/resume.gif">check out this animated gif. </a> </li>
+<code>yourlastname-yourfirstname-resume.pdf</code> into your project folder. You will need to link to this using a <b>RELATIVE</b> link. <a href="images/resume.png">See this static screen shot for help.</a> or <a href="images/resume.gif">check out this animated gif. </a>
+
+!> You cannot preview a pdf file in a text editor. So if you see a lot of raw code, or if you get an error message when you click on it while in the text editor, ignore it. What matters is that you can download it or view it in a browser based pdf plugin. Not every has
+a browser that can preview a pdf file. You will be graded on *will it download if clicked*.
+
+</li>
 
 <li>
 A <b>RELATIVE</b> URL points to a file within a web site:
