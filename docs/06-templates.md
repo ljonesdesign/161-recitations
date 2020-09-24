@@ -1,6 +1,6 @@
 # Templates
 
-## Wrap up 02.02 Task
+## Wrap up 02.02 Task...
 
 If you are still having issues with this task, please try to get up a bit early and work with me before class or meet with me after class. I can spend a few minutes of class time on simple issues, but if you are dealing with a complex problem, we will need to meet after class or set up office hours.
 
