@@ -7,9 +7,8 @@
 ## Videos from Previous Class
 In Spring of 2019 I developed an entire course of video lectures for this project. If you want to see the video lectures then you can view them here: <https://ils.unc.edu/courses/2019_spring/inls161_001/03/03b-windows-part-1-setup.php> You are also welcome to use this grade sheet, if you wish:
 
-[Gradesheet with number references to video lectures](https://opal.ils.unc.edu/~lblakej/misc/number-key-gradesheet-task-03.xlsx)
-
-[Task 03 Gradesheet without number references](https://sakai.unc.edu/access/content/attachment/8f9c1dbd-3e27-400a-bdae-29608fa12361/Assignments/d332c637-3a48-4e5c-b39b-ae65fa59f48e/task03grades.xlsx)
+*[Gradesheet with number references to video lectures](https://opal.ils.unc.edu/~lblakej/misc/number-key-gradesheet-task-03.xlsx)
+*[Task 03 Gradesheet without number references](https://sakai.unc.edu/access/content/attachment/8f9c1dbd-3e27-400a-bdae-29608fa12361/Assignments/d332c637-3a48-4e5c-b39b-ae65fa59f48e/task03grades.xlsx)
 
 The tasks are numbered and are keyed to the project so it is easier to get feedback if you get stuck. This was influenced by some instructional design training. It is up to you; you can use either gradesheet. I will assume that you will use the one below, if you don't let me know when you submit.
 
