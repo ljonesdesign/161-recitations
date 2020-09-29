@@ -119,7 +119,7 @@ Make sure your <b>all your navigation links work</b>.
 </li>
 
 <li>
-One <b>client side script</b>. (Javascript example.) See the <a href="02-scripting.php">page for a new example</a> I have put up there.
+One <b>client side script</b>. (Javascript example.) See the Scripting notes in the left sidebar for more information.
 
 !>This is a specific required rubric item distinct from other rubric items that may or may not use javascript.
 
