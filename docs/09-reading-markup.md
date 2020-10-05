@@ -1,3 +1,3 @@
 # Reading Markup
 
-Needs content.
+We will continue where we left off last class.
