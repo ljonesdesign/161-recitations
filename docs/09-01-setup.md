@@ -32,7 +32,7 @@ Delete that line and all the remaining lines of the document. Your new document 
 
 ![paragraph marker](images/paragraph.PNG)
 
-*Next: Eliminate unnecessary paragraph markers*
+*Next:Eliminate unnecessary paragraph markers*
 
 Using your find and replace tools, reformat the e-book to eliminate unnecessary paragraph markers and to permit the text to wrap until it hits an actual paragraph mark.
 
