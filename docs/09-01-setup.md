@@ -28,9 +28,11 @@ Delete that line and all the remaining lines of the document. Your new document 
 
 ## Task 3.03 Remove extra ^p Markers
 
+*Turn on your paragraph markers to see them:*
+
 ![paragraph marker](images/paragraph.PNG)
 
-*Eliminate unnecessary paragraph markers*
+*Next: Eliminate unnecessary paragraph markers*
 
 Using your find and replace tools, reformat the e-book to eliminate unnecessary paragraph markers and to permit the text to wrap until it hits an actual paragraph mark.
 
