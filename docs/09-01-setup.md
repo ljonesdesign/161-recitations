@@ -30,7 +30,7 @@ Delete that line and all the remaining lines of the document. Your new document 
 
 *Turn on your paragraph markers to see them:*
 
-![paragraph marker](images/paragraph.PNG)
+![paragraph marker](images/paragraph-marker-pc.png)
 
 *Next:Eliminate unnecessary paragraph markers*
 
