@@ -6,7 +6,7 @@
 
 There are a lot of steps in creating a chart in Excel, but once you get the idea of how and why, it only takes a short time to make a chart and is very, very easy.
 
-Here is the [zoom video from last semester](https://opal.ils.unc.edu/~lblakej/task04-videos) if you want to get an overview before class. The Worksheet tab names are different, but the charts are the same.
+Here is the [zoom video from last semester](https://opal.ils.unc.edu/~lblakej/task04-videos) if you want to get an overview before class. I forgot to make a duplicate of the 10-KOREANWAR_STATE and rename it 16-CHARTDATA, but all the other steps are demonstrated.
 
 [Charts 2019 Spring](https://opal.ils.unc.edu/~lblakej/task04-videos/2019-spring-charts-zoom.mp4 ':include :type=iframe')
 
