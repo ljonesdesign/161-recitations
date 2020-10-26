@@ -50,13 +50,13 @@
 
 <p>(In the video I say there is only 53 rows of data, but that is because the zoom share screen was obscuring the &quot;2&quot; in 253. There are around 253 rows of data including the headers.)</p>
 
-<h2>PIVOT TABLE</h2>
+## PIVOT TABLE
 
 Too much detail on this page to condense here so here is the link to the [Pivot Table Task on Class Web Page](https://ils.unc.edu/courses/2020_spring/inls161_001/13b.03.pivot-tables.html)
 
+Here is [video from last spring](https://opal.ils.unc.edu/~lblakej/task04-videos/pivot-table-video.mp4)
 
-
-<p>Optional videos: These are supplemental videos that were used in past classes. Concepts are similar, but the data is different.</p>
+Optional videos: These are supplemental videos that were used in past classes. Concepts are similar, but the data is different.
 
 * Mac Video from previous class: <a href="https://ils.unc.edu/courses/2019_spring/inls161_001/videos/spreadsheet-drafts/4.22-single-level-sort.mp4"><img alt="" src="https://ils.unc.edu/courses/2019_spring/inls161_001/03-files/video.png" width="30" /> Single-level sort</a>
 * Mac Video from previous class: <a href="https://ils.unc.edu/courses/2019_spring/inls161_001/videos/spreadsheet-drafts/4.23-multi-level-sort.mp4"><img alt="" src="https://ils.unc.edu/courses/2019_spring/inls161_001/03-files/video.png" width="30" /> Multi-level sort</a>
