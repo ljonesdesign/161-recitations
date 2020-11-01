@@ -9,4 +9,6 @@ Before we discuss the VLOOKUP function, we need to be aware of absolute and rela
 
 !> Short version: we must use absolute references in our lookup data range. Excel uses relative references by default.
 
-Here is an excel file you can download for reference: [VLOOKUP Examples](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/jones-vlookup-examples-v2.xlsx)
+## VLOOKUP Demo
+
+Here is an excel file you can download for if you want to follow along in class: [VLOOKUP Examples](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/jones-vlookup-examples-v2.xlsx)
