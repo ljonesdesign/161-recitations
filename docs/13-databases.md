@@ -9,7 +9,7 @@ Before we discuss the VLOOKUP function, we need to be aware of absolute and rela
 
 *It is not necessary to have watched the video to follow along in class.*
 
-!> Short version: we must use absolute references in our lookup data range. Excel uses relative references by default. To make a column or row reference absolute, manually place a dollar sign ($) in front of the reference. You may also cycle through the choices by clicking in the formula bar ![formula bar](images/formula-bar.png) and typing ```mac: command +T``` or ```pc: Cntrl + T```.  
+!> Short version: we must use absolute references in our lookup data range. Excel uses relative references by default. To make a column or row reference absolute, manually place a dollar sign ($) in front of the reference. You may also cycle through the choices by clicking in the formula bar ![formula bar](images/formula-bar.png) and typing ```mac: command +T``` or ```pc: fn + F4```.  
 <br>See Table 1 for examples.
 
 **Table 1**
