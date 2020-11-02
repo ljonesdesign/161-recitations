@@ -26,7 +26,7 @@ Mixed Reference: | <b>$</b>A2 or A<b>$</b>2 | enter dollar sign in front of colu
 
 Here is an excel file you can download if you want to follow along in class: [VLOOKUP Examples](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/jones-vlookup-examples-v2.xlsx). I put in some Star Wars and Harry Potter data to make it a little more fun. We will practice this a lot.
 
-With all that practice, you can now go download the file for your [VLOOKUP task](https://ils.unc.edu/courses/2020_fall/inls161_001/13b.01.vlookup.html) and get in done in a minute.
+With all that practice, you can now go download the file for your [VLOOKUP task](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/spreadsheets.vlookup-example.xlsx) and get in done in a minute.
 
 ## SQL
 
