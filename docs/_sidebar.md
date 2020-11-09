@@ -36,4 +36,4 @@
 * [Nov 09 | 14 Design & Delivery](14-design-delivery.md)
 
 **Final Exam**
-* [15 Student Presentations](15-final-presentations.md)
+* [Nov 18 & 23 | 15 Final Due](15-final-presentations.md)
