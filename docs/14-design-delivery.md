@@ -16,6 +16,8 @@ Your presentation should also be able to function as if you were presenting it l
 
 !>Failure to follow the grading rubric might result in a poor grade even if you are an exceptionally good designer and storyteller. **Takeaway: Don't assume that your advanced presentation skills will hit everything on the rubric. Read the requirements in the checklist.**
 
+[Getting Started Demo (I will demo in class if you want to download)](https://github.com/ljonesdesign/161-recitations/raw/master/docs/files/printmakers-draft-presentation.pptx)
+
 ## Checklist
 
 1. Choose a Theme that works with your topic. **Something New** grade means you are using a custom theme or you have changed a theme that no longer is recognizable as a common PowerPoint theme. I will demo some very simple strategies on how to do this.
