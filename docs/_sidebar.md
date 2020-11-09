@@ -36,4 +36,4 @@
 * [Nov 09 | 14 Design & Delivery](14-design-delivery.md)
 
 **Final Exam**
-* [Nov ?? | 15 Student Presentations](15-final-presentations.md)
+* [15 Student Presentations](15-final-presentations.md)
