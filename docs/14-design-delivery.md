@@ -20,7 +20,7 @@ Your presentation should also be able to function as if you were presenting it l
 
 1. Choose a Theme that works with your topic. **Something New** grade means you are using a custom theme or you have changed a theme that no longer is recognizable as a common PowerPoint theme. I will demo some very simple strategies on how to do this.
 2. Put in the first slide notes why you chose your theme. (*This is a good choice for my topic because...*)
-3. Use default bullet format for **ONLY the overview and summary slides**. (5 points off for each additional bullet-centric slide). Even on this slide it is better to find an alternative to standard bullets. [(here is one)](https://support.office.com/en-us/article/Create-custom-bullets-with-pictures-or-symbols-a6bf04a8-be3d-4bec-969a-6196e89da741)
+3. Use default bullet format for **ONLY the overview and summary slides**. (5 points off for each additional bullet-centric slide). Even on these slides it is better to find an alternative to standard bullets. [(here is one)](https://support.office.com/en-us/article/Create-custom-bullets-with-pictures-or-symbols-a6bf04a8-be3d-4bec-969a-6196e89da741)
 4. Add automatically updated date to footer component in master slide. This is usually in most themes. You just need to turn it on. **(Insert > Header & Footer > Slide Tab > date and time checkbox)**.
 5. Start with a title slide.
 6. Include overview slide with main points.
