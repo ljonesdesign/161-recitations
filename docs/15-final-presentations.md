@@ -7,6 +7,8 @@ your presentation skills.
 
 There is no additional work necessary for the final exam period. Attendance will be taken for the final exam for UNC administration purposes. If you are unable to attend any exam due to your schedule please contact me prior the end of the semester.
 
+INLS161-602 Zoom Link: <https://sakai.unc.edu/x/LOzYFh>
+
 section     |                                    | time         | day       | date
 ---         | ---                                |---           |---        |---
 INLS161-601 | will hold its final exam time from | 0800-1100 on | Wednesday | 18 November 2020
